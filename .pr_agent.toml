@@ -6,3 +6,4 @@ description = "Adds or modiify SQL query"
 
 [custom_labels."Secret key"]
 description = "Adds a secret key"
+
